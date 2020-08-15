@@ -17,7 +17,7 @@ will extract the annotations in my_example_genes.gff and save the results to the
 
 ## FORMAT NOTES
 
-The functional annoations are assumed to be in the dictionary entry "Note" under the mRNA features of the GFF file, like in this entry from the my_example_genes.gff file:
+The functional annoations are assumed to be in the last column of the gff file under the dictionary entry "Note" for the mRNA features, like in this entry from the my_example_genes.gff file:
 
 ```
 SL4.0ch00       maker_ITAG      gene    93750   94430   .       +       .       ID=gene:Solyc00g500001.1;Alias=Solyc00g500001;Name=Solyc00g500001.1;length=680
