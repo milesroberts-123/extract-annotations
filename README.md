@@ -31,6 +31,8 @@ If that doesn't work, see [here](https://biopython.org/wiki/Download).
 
 `pip install bcbio-gff`
 
+If that doesn't work, see [here](https://github.com/chapmanb/bcbb/tree/master/gff).
+
 3. Python3 - I tested this script with Python v3.8.2
 
 ## REFERENCES
